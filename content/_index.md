@@ -25,7 +25,7 @@ sections:
     background:
       background_color: white
       background_image: /images/homepack-background.jpg
-      background_image_opacity: 10
+      background_image_opacity: 40
       background_image_size: auto
       background_image_repeat: no-repeat
   - type: features_section
