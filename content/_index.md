@@ -10,11 +10,6 @@ sections:
     actions:
       - type: action
         template: action
-        label: Learn More
-        url: /features
-        style: primary
-      - type: action
-        template: action
         label: Contact Us
         url: /contact
         style: secondary
