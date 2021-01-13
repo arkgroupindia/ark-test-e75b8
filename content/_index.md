@@ -51,5 +51,12 @@ sections:
     recent_count: 6
     type: blog_feed_section
     template: blog_feed_section
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
+    template: cta_section
 layout: advanced
 ---
