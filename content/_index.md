@@ -1,96 +1,101 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    template: hero_section
-    title: 'BUILDING TOMORROW, TODAY'
-    subtitle: >-
-      30+ years of setting new benchmarks in project delivery, quality and
-      management.
-    actions: []
+- type: hero_section
+  template: hero_section
+  title: BUILDING TOMORROW, TODAY
+  subtitle: 30+ years of setting new benchmarks in project delivery, quality and management.
+  actions: []
+  align: left
+  image_alt: Hero placeholder image
+  image_position: right
+  has_background: true
+  background:
+    background_color: white
+    background_image: "/images/homepack-background.jpg"
+    background_image_opacity: 80
+    background_image_size: cover
+    background_image_repeat: repeat
+  image: ''
+- type: features_section
+  template: features_section
+  title: ''
+  features:
+  - type: feature
+    template: feature
+    title: The best promises are the ones that are delivered on time.
+    content: |-
+      **Ark’s strong portfolio of residential, industrial and institutional projects**
+
+      stand testimony to delivering large scale projects with utmost finesse, being on the front foot of innovation, and most importantly, in time.
     align: left
-    image_alt: Hero placeholder image
+    image: "/images/construciton-hats.jpg"
+    image_alt: Construction Hats
     image_position: right
-    has_background: true
-    background:
-      background_color: white
-      background_image: /images/homepack-background.jpg
-      background_image_opacity: 80
-      background_image_size: cover
-      background_image_repeat: repeat
-  - type: features_section
-    template: features_section
-    title: ''
-    features:
-      - type: feature
-        template: feature
-        title: The best promises are the ones that are delivered on time.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /features
-            style: secondary
-      - type: feature
-        template: feature
-        title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /features
-            style: secondary
-      - type: feature
-        template: feature
-        title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /features
-            style: secondary
-  - type: blog_feed_section
-    template: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
-  - type: cta_section
-    template: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     actions:
-      - type: action
-        template: action
-        label: Learn More
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
+    - type: action
+      template: action
+      label: Learn More
+      url: "/about"
+      style: secondary
+      new_window: false
+      no_follow: false
+  - type: feature
+    template: feature
+    title: Feature 2
+    content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+      quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.
+    align: left
+    image: images/feature.svg
+    image_alt: Feature 2 placeholder image
+    image_position: left
+    actions:
+    - type: action
+      template: action
+      label: Learn More
+      url: "/features"
+      style: secondary
+      new_window: false
+      no_follow: false
+  - type: feature
+    template: feature
+    title: Feature 3
+    content: Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus eget
+      nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in ante.
+    align: left
+    image: images/feature.svg
+    image_alt: Feature 3 placeholder image
+    image_position: right
+    actions:
+    - type: action
+      template: action
+      label: Learn More
+      url: "/features"
+      style: secondary
+      new_window: false
+      no_follow: false
+- type: blog_feed_section
+  template: blog_feed_section
+  title: What's New
+  show_recent: true
+  recent_count: 3
+  author: ''
+  category: ''
+- type: cta_section
+  template: cta_section
+  title: This Is A CTA
+  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+    quis lorem malesuada luctus.
+  actions:
+  - type: action
+    template: action
+    label: Learn More
+    url: "/features"
+    style: primary
+    new_window: false
+    no_follow: false
+  has_background: true
+  background_color: gray
 layout: advanced
+
 ---
