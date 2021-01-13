@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     template: hero_section
     title: 'BUILDING TOMORROW, TODAY'
-    subtitle: '30+ years of setting new benchmarks in project delivery, '
+    subtitle: >-
+      30+ years of setting new benchmarks in project delivery, quality and
+      management.
     actions:
       - type: action
         template: action
