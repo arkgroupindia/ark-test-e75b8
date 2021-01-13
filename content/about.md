@@ -3,7 +3,7 @@ title: Exectional Craftsmanship
 sections:
   - type: hero_section
     template: hero_section
-    title: Exectional Craftsmanship We Are
+    title: Exectional Craftsmanship
     align: center
   - type: content_section
     template: content_section
