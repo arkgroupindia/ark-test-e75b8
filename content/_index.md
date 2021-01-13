@@ -47,7 +47,8 @@ sections:
             new_window: false
             no_follow: false
   - title: lorem-ipsum
-    team: []
+    team:
+      - data/team/person-u89ol6g5j.yaml
     type: team_section
     template: team_section
 layout: advanced
