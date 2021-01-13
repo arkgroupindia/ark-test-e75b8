@@ -5,6 +5,11 @@ sections:
     template: hero_section
     title: Exectional Craftsmanship
     align: left
+    background:
+      background_color: white
+      background_image_opacity: 0
+      background_image_size: cover
+      background_image_repeat: no-repeat
   - type: content_section
     template: content_section
     content: >-
