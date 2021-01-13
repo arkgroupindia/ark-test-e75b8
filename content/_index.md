@@ -46,5 +46,12 @@ sections:
             style: secondary
             new_window: false
             no_follow: false
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
+    template: cta_section
 layout: advanced
 ---
