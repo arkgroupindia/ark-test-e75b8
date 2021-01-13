@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Exectional Craftsmanship
-    align: center
+    align: left
   - type: content_section
     template: content_section
     content: >-
