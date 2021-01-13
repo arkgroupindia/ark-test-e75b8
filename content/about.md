@@ -10,6 +10,7 @@ sections:
       background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: no-repeat
+    has_background: true
   - type: content_section
     template: content_section
     content: >-
