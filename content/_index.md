@@ -40,62 +40,10 @@ sections:
       style: secondary
       new_window: false
       no_follow: false
-  - type: feature
-    template: feature
-    title: Feature 2
-    content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-      quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.
-    align: left
-    image: images/feature.svg
-    image_alt: Feature 2 placeholder image
-    image_position: left
-    actions:
-    - type: action
-      template: action
-      label: Learn More
-      url: "/features"
-      style: secondary
-      new_window: false
-      no_follow: false
-  - type: feature
-    template: feature
-    title: Feature 3
-    content: Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus eget
-      nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in ante.
-    align: left
-    image: images/feature.svg
-    image_alt: Feature 3 placeholder image
-    image_position: right
-    actions:
-    - type: action
-      template: action
-      label: Learn More
-      url: "/features"
-      style: secondary
-      new_window: false
-      no_follow: false
-- type: blog_feed_section
-  template: blog_feed_section
-  title: What's New
-  show_recent: true
-  recent_count: 3
-  author: ''
-  category: ''
-- type: cta_section
-  template: cta_section
-  title: This Is A CTA
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
-  actions:
-  - type: action
-    template: action
-    label: Learn More
-    url: "/features"
-    style: primary
-    new_window: false
-    no_follow: false
-  has_background: true
-  background_color: gray
+- template: content_section
+  type: content_section
+  content: "    1"
+  title: ''
 layout: advanced
 
 ---
