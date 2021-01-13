@@ -90,7 +90,7 @@ params:
       no_follow: false
     content: ''
     links: []
-  favicon: ''
+  favicon: "/images/ark-large.png"
 taxonomies:
   stub: stub
 disableKinds:
