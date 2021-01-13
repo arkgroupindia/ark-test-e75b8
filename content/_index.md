@@ -47,7 +47,7 @@ sections:
             new_window: false
             no_follow: false
   - title: Featured Projects
-    show_recent: false
+    show_recent: true
     recent_count: 0
     type: blog_feed_section
     template: blog_feed_section
