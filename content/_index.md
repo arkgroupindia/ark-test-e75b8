@@ -7,12 +7,7 @@ sections:
     subtitle: >-
       30+ years of setting new benchmarks in project delivery, quality and
       management.
-    actions:
-      - type: action
-        template: action
-        label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: left
     image_alt: Hero placeholder image
     image_position: right
