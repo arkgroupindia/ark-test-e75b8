@@ -8,7 +8,7 @@ sections:
       30+ years of setting new benchmarks in project delivery, quality and
       management.
     actions: []
-    align: right
+    align: left
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
