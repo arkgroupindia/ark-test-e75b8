@@ -46,5 +46,10 @@ sections:
             style: secondary
             new_window: false
             no_follow: false
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
+    template: blog_feed_section
 layout: advanced
 ---
