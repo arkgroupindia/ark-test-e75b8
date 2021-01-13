@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Exectional Craftsmanship
 sections:
   - type: hero_section
     template: hero_section
