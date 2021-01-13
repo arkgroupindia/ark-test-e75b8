@@ -46,9 +46,5 @@ sections:
             style: secondary
             new_window: false
             no_follow: false
-  - title: lorem-ipsum
-    team: []
-    type: team_section
-    template: team_section
 layout: advanced
 ---
