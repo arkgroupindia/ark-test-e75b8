@@ -54,7 +54,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
-    has_background: false
+    has_background: true
     background_color: white
     type: cta_section
     template: cta_section
